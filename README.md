@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |

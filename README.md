@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0093-restore-ip-addresses](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Graph Theory
 |  |
 | ------- |

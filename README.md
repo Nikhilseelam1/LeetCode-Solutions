@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0142-linked-list-cycle-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |

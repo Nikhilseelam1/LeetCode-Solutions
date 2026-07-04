@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0137-single-number-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

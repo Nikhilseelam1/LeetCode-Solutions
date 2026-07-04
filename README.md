@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0164-maximum-gap](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Recursion
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0093-restore-ip-addresses](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Simulation
 |  |
 | ------- |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->

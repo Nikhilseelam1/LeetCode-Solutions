@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Dynamic Programming
 |  |
 | ------- |

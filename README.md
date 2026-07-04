@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -91,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |

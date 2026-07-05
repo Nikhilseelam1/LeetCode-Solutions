@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |

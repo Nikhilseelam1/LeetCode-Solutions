@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -220,4 +224,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->

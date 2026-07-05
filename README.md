@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0093-restore-ip-addresses](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Simulation
 |  |
 | ------- |
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->

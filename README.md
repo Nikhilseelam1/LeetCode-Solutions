@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0223-rectangle-area) |
+| [0273-integer-to-english-words](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0273-integer-to-english-words](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 ## String
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0273-integer-to-english-words](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 ## Simulation
 |  |
 | ------- |

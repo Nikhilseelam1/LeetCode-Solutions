@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 ## Simulation
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->

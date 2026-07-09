@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0306-additive-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0306-additive-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0306-additive-number) |
 ## Graph Theory
 |  |
 | ------- |

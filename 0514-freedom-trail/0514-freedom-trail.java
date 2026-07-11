@@ -4,32 +4,32 @@ class Solution {
     int n;
     int m;
     int [][]dp;
-    public int rec(int ind,int j){
-       if(j==m){
-            return 0;
-       }
-       if(dp[ind][j]!=-1) return dp[ind][j];
-       int ans=Integer.MAX_VALUE;
-       for(int i=0;i<n;i++){
-            if(s.charAt(i) == s1.charAt(j)){
-                int cw=Math.abs(i-ind);
-                int ac=n-cw;
-                int mini=Math.min(cw,ac);
-                ans=Math.min(mini+1+(rec(i,j+1)),ans);
-            }
-       }
-       dp[ind][j]=ans;
-       return ans;
-    }
     public int findRotateSteps(String ring, String key) {
         s=ring;
         s1=key;
         n=s.length();
         m=s1.length();
-        dp=new int[101][101];
-        for(int i=0;i<100;i++){
-            Arrays.fill(dp[i],-1);
+        dp=new int[m+1][n];
+        for(int i=0;i<n;i++){
+            dp[m][i]=0;
         }
-        return rec(0,0);
+        for(int k=m-1;k>=0;k--){
+            for(int i=0;i<n;i++){
+                dp[k][i]=Integer.MAX_VALUE;
+                for(int j=0;j<n;j++){
+                    if (ring.charAt(j) == key.charAt(k)) {
+
+                        int diff = Math.abs(j - i);
+                        int rotation = Math.min(diff, n - diff);
+
+                        dp[k][i] = Math.min(
+                                dp[k][i],
+                                rotation + 1 + dp[k + 1][j]
+                        );
+                    }
+                }
+            }
+        }
+        return dp[0][0];
     }
 }

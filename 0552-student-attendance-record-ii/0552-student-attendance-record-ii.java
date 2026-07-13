@@ -1,26 +1,26 @@
 class Solution {
     int mod=(int)1e9+7;
-    Integer [][][] dp;
-    int n1;
-    int rec(int i,int l,int a){
-        if(i==n1){
-            return 1;
-        }
-        if(dp[i][a][l] != null) return dp[i][a][l];
-        int c=0;
-        c=(c+rec(i+1,0,a))%mod;
-        if(l<2){
-            c=(c+rec(i+1,l+1,a))%mod;
-        }
-        if(a<1){
-            c=(c+rec(i+1,0,a+1))%mod;
-        }
-        dp[i][a][l]=c;
-        return c%mod;
-    }
     public int checkRecord(int n) {
-        n1=n;
-        dp=new Integer [n+1][2][3];
-        return rec(0,0,0);
+        int [][][] dp=new int [n+1][2][3];
+        for(int i=0;i<2;i++){
+            for(int j=0;j<3;j++){
+                dp[n][i][j]=1;
+            }
+        }
+        for(int i=n-1;i>=0;i--){
+            for(int j=1;j>=0;j--){
+                for(int k=2;k>=0;k--){
+                    int c=0;
+                    dp[i][j][k]=(dp[i][j][k]+dp[i+1][j][0])%mod;
+                    if(k<2){
+                        dp[i][j][k]=(dp[i][j][k]+dp[i+1][j][k+1])%mod;
+                    }
+                    if(j<1){
+                        dp[i][j][k]=(dp[i][j][k]+dp[i+1][j+1][0])%mod;
+                    }
+                }
+            }
+        }
+        return dp[0][0][0];
     }
 }

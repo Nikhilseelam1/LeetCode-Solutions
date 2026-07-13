@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0306-additive-number) |
+| [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 ## Graph Theory
 |  |
 | ------- |
@@ -246,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0514-freedom-trail](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0514-freedom-trail) |
+| [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->

@@ -1,33 +1,42 @@
 class Solution {
-    int n1;
-    int m1;
-    int mod=(int)1e9+7;
-    int [][][] dp;
-    int rec(int i,int j,int maxi){
-        if(maxi<0) return 0;
-        if(i>=n1 || j>=m1 || j<0 || i<0){
-            return (maxi>=0)?1:0;
-        }
-        if(dp[i][j][maxi]!=-1) return dp[i][j][maxi];
-        int ans=0;
-        ans=(ans + rec(i,j+1,maxi-1))%mod;
-        ans=(ans + rec(i,j-1,maxi-1))%mod;
-        ans=(ans + rec(i-1,j,maxi-1))%mod;
-        ans=(ans + rec(i+1,j,maxi-1))%mod;
-        dp[i][j][maxi]=ans%mod;
-        return ans%mod;
-    }
-    public int findPaths(int m, int n, int maxi, int sr, int sc) {
-        n1=m;
-        m1=n;
-        dp=new int [51][51][51];
-        for(int i=0;i<=50;i++){
-            for(int j=0;j<=50;j++){
-                for(int k=0;k<=50;k++){
-                    dp[i][j][k]=-1;
+
+    int mod = (int)1e9 + 7;
+
+    public int findPaths(int m, int n, int maxMove, int sr, int sc) {
+
+        int[][][] dp = new int[m][n][maxMove + 1];
+
+        int[] dx = {-1, 1, 0, 0};
+        int[] dy = {0, 0, -1, 1};
+
+        // Base:
+        // rec(i,j,0) = 0
+        // Java arrays are already initialized with 0.
+
+        for (int move = 1; move <= maxMove; move++) {
+
+            for (int i = 0; i < m; i++) {
+
+                for (int j = 0; j < n; j++) {
+
+                    long ans = 0;
+
+                    for (int d = 0; d < 4; d++) {
+
+                        int ni = i + dx[d];
+                        int nj = j + dy[d];
+
+                        if (ni < 0 || nj < 0 || ni >= m || nj >= n)
+                            ans++;
+                        else
+                            ans += dp[ni][nj][move - 1];
+                    }
+
+                    dp[i][j][move] = (int)(ans % mod);
                 }
             }
         }
-        return rec(sr,sc,maxi);
+
+        return dp[sr][sc][maxMove];
     }
 }

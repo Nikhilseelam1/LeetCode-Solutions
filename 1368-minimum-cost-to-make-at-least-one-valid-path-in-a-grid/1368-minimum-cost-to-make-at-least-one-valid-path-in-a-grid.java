@@ -8,7 +8,7 @@ class Solution {
     int n = grid.length;
     int m = grid[0].length;
 
-    int[] dx = {-1, 1, 0, 0};
+    int[] dx = {-1, 1, 0, 0}; // Up, Down, Right, Left
     int[] dy = {0, 0, 1, -1};
 
     boolean[][] vis = new boolean[n][m];
@@ -29,64 +29,28 @@ class Solution {
 
         vis[r][c] = true;
 
-        if (grid[r][c] == 1) {
+        int[] changeCost;
 
-            if (r + dx[2] >= 0 && r + dx[2] < n && c + dy[2] >= 0 && c + dy[2] < m)
-                pq.offer(new int[]{r + dx[2], c + dy[2], cost});
+        if (grid[r][c] == 1)
+            changeCost = new int[]{1, 1, 0, 1};   // Right
+        else if (grid[r][c] == 2)
+            changeCost = new int[]{1, 1, 1, 0};   // Left
+        else if (grid[r][c] == 3)
+            changeCost = new int[]{1, 0, 1, 1};   // Down
+        else
+            changeCost = new int[]{0, 1, 1, 1};   // Up
 
-            if (r + dx[0] >= 0 && r + dx[0] < n && c + dy[0] >= 0 && c + dy[0] < m)
-                pq.offer(new int[]{r + dx[0], c + dy[0], cost + 1});
+        for (int k = 0; k < 4; k++) {
 
-            if (r + dx[1] >= 0 && r + dx[1] < n && c + dy[1] >= 0 && c + dy[1] < m)
-                pq.offer(new int[]{r + dx[1], c + dy[1], cost + 1});
+            int nr = r + dx[k];
+            int nc = c + dy[k];
 
-            if (r + dx[3] >= 0 && r + dx[3] < n && c + dy[3] >= 0 && c + dy[3] < m)
-                pq.offer(new int[]{r + dx[3], c + dy[3], cost + 1});
-
-        } else if (grid[r][c] == 2) {
-
-            if (r + dx[2] >= 0 && r + dx[2] < n && c + dy[2] >= 0 && c + dy[2] < m)
-                pq.offer(new int[]{r + dx[2], c + dy[2], cost + 1});
-
-            if (r + dx[0] >= 0 && r + dx[0] < n && c + dy[0] >= 0 && c + dy[0] < m)
-                pq.offer(new int[]{r + dx[0], c + dy[0], cost + 1});
-
-            if (r + dx[1] >= 0 && r + dx[1] < n && c + dy[1] >= 0 && c + dy[1] < m)
-                pq.offer(new int[]{r + dx[1], c + dy[1], cost + 1});
-
-            if (r + dx[3] >= 0 && r + dx[3] < n && c + dy[3] >= 0 && c + dy[3] < m)
-                pq.offer(new int[]{r + dx[3], c + dy[3], cost});
-
-        } else if (grid[r][c] == 3) {
-
-            if (r + dx[2] >= 0 && r + dx[2] < n && c + dy[2] >= 0 && c + dy[2] < m)
-                pq.offer(new int[]{r + dx[2], c + dy[2], cost + 1});
-
-            if (r + dx[0] >= 0 && r + dx[0] < n && c + dy[0] >= 0 && c + dy[0] < m)
-                pq.offer(new int[]{r + dx[0], c + dy[0], cost + 1});
-
-            if (r + dx[1] >= 0 && r + dx[1] < n && c + dy[1] >= 0 && c + dy[1] < m)
-                pq.offer(new int[]{r + dx[1], c + dy[1], cost});
-
-            if (r + dx[3] >= 0 && r + dx[3] < n && c + dy[3] >= 0 && c + dy[3] < m)
-                pq.offer(new int[]{r + dx[3], c + dy[3], cost + 1});
-
-        } else {
-
-            if (r + dx[2] >= 0 && r + dx[2] < n && c + dy[2] >= 0 && c + dy[2] < m)
-                pq.offer(new int[]{r + dx[2], c + dy[2], cost + 1});
-
-            if (r + dx[0] >= 0 && r + dx[0] < n && c + dy[0] >= 0 && c + dy[0] < m)
-                pq.offer(new int[]{r + dx[0], c + dy[0], cost});
-
-            if (r + dx[1] >= 0 && r + dx[1] < n && c + dy[1] >= 0 && c + dy[1] < m)
-                pq.offer(new int[]{r + dx[1], c + dy[1], cost + 1});
-
-            if (r + dx[3] >= 0 && r + dx[3] < n && c + dy[3] >= 0 && c + dy[3] < m)
-                pq.offer(new int[]{r + dx[3], c + dy[3], cost + 1});
+            if (nr >= 0 && nr < n && nc >= 0 && nc < m) {
+                pq.offer(new int[]{nr, nc, cost + changeCost[k]});
+            }
         }
     }
 
     return 0;
-    }
+}
 }

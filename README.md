@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0306-additive-number) |
 | [0514-freedom-trail](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1392-longest-happy-prefix](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -399,4 +400,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->

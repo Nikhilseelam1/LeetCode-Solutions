@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0306-additive-number) |
 | [0514-freedom-trail](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0514-freedom-trail) |
+| [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1392-longest-happy-prefix](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |

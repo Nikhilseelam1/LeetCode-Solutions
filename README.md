@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |

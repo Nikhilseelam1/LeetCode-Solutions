@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Design

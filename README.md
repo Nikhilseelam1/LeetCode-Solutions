@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |

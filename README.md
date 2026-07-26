@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0576-out-of-boundary-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0629-k-inverse-pairs-array) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |

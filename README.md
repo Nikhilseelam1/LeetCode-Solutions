@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Backtracking
 |  |
 | ------- |

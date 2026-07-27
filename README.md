@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1405-longest-happy-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0738-monotone-increasing-digits](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |

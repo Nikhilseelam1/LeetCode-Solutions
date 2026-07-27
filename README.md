@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0899-orderly-queue](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0899-orderly-queue) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0738-monotone-increasing-digits](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |

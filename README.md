@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0767-reorganize-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1405-longest-happy-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0899-orderly-queue) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1328-break-a-palindrome](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1328-break-a-palindrome) |
+| [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1405-longest-happy-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1753-maximum-score-from-removing-stones) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0986-interval-list-intersections](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
 | ------- |
@@ -503,10 +506,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 ## Rolling Hash
 |  |

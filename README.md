@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0738-monotone-increasing-digits) |
 | [0899-orderly-queue](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0899-orderly-queue) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |

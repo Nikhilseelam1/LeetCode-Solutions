@@ -1,41 +1,50 @@
 class Solution {
 public:
-    int n;
     int dp[50001][2];
-    int rec(int i,bool a_b,vector<int>&p){
-        if(i>=n){
-            return 0;
+
+    int rec(int i, vector<int>& p, bool f) {
+        int n = p.size();
+        if (i >= n) return 0;
+
+        if (dp[i][f] != -1) return dp[i][f];
+
+        if (f) {
+            int maxi = INT_MIN;
+
+            maxi = max(maxi, p[i] + rec(i + 1, p, false));
+
+            if (i + 1 < n)
+                maxi = max(maxi, p[i] + p[i + 1] + rec(i + 2, p, false));
+
+            if (i + 2 < n)
+                maxi = max(maxi, p[i] + p[i + 1] + p[i + 2] + rec(i + 3, p, false));
+
+            return dp[i][f] = maxi;
+        } else {
+            int maxi = INT_MAX;
+
+            maxi = min(maxi, rec(i + 1, p, true));
+
+            if (i + 1 <= n)
+                maxi = min(maxi, rec(i + 2, p, true));
+
+            if (i + 2 <= n)
+                maxi = min(maxi, rec(i + 3, p, true));
+
+            return dp[i][f] = maxi;
         }
-        if(dp[i][a_b]!=-1) return dp[i][a_b];
-        int res=a_b?-1e9:1e9;
-        int t=0;
-        for(int l=1;l<=3;l++){
-            if(i+l>n) break;
-            t+=p[i+l-1];
-            if(a_b){
-                res=max(res,t+rec(i+l,!a_b,p));
-            }else{
-                res=min(res,rec(i+l,!a_b,p));
-            }
-        }
-        dp[i][a_b]=res;
-        return res;
     }
+
     string stoneGameIII(vector<int>& p) {
-        n=p.size();
-        int t=accumulate(p.begin(),p.end(),0);
-        memset(dp,-1,sizeof(dp));
-        int x=rec(0,1,p);
-        int x1=t-x;
-        if(x>x1)
-        {
-            return "Alice";
-        }else if(x<x1)
-        {
-            return "Bob";
-        }else
-        {
-            return "Tie";
-        }
+        memset(dp, -1, sizeof(dp));
+
+        int alice = rec(0, p, true);
+
+        int sum = 0;
+        for (int x : p) sum += x;
+
+        if (alice > sum - alice) return "Alice";
+        if (alice == sum - alice) return "Tie";
+        return "Bob";
     }
 };

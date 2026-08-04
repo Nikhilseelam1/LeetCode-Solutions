@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
 | ------- |

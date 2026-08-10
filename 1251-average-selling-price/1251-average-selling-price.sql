@@ -2,9 +2,10 @@
 
 select 
 x.product_id,
-case when round(sum(x.units * x.price)/sum(units),2) is null then 0
-else round(sum(x.units * x.price)/sum(units),2)
-end as average_price
+-- case when round(sum(x.units * x.price)/sum(units),2) is null then 0
+-- else round(sum(x.units * x.price)/sum(units),2)
+-- end as average_price
+COALESCE(ROUND(sum(x.price * x.units)/sum(x.units),2),0) average_price
 from
 (
 SELECT 

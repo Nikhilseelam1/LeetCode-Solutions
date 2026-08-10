@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1661-average-time-of-process-per-machine) |

@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Minimax
 |  |

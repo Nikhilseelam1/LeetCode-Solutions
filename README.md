@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
 | [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -453,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -572,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
 | [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Number Theory
 |  |
 | ------- |
@@ -614,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Counting Sort
@@ -711,4 +719,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
 | [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->

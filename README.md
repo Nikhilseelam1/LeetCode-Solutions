@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
+| [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
+| [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -566,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
+| [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -704,4 +710,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
+| [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->

@@ -1,69 +1,50 @@
 class Solution {
 public:
-    
-    // declare a map
-    
-    unordered_map<string, int> mp;
-    
-    bool helper(vector<int>& nums, int i, int n, int sum, int n1)
-    {
-        // base case
         
-        if(n1 == 0)
-            return sum == 0;
-        
-        if(i == n)
-            return false;
-        
-        // create a key
-        
-        string key = to_string(i) + "#" + to_string(n1) + "#" + to_string(sum);
-        
-        // if already calculated
-        
-        if(mp.count(key))
-            return mp[key];
-        
-        // if nums[i] <= sum, then we will either include or exclude
-        
-        // calculate the result and store in map
-       
-        if(nums[i] <= sum)
-        {
-            return mp[key] = helper(nums, i + 1, n, sum - nums[i], n1 - 1) || helper(nums, i + 1, n, sum, n1);
+    bool splitArraySameAverage(vector<int>& arr) {
+        int n=arr.size();
+        int n1=n/2;
+        int n2=n-(n1);
+        unordered_map<int,vector<int>>mp1;
+        unordered_map<int,vector<int>>mp2;
+        for(int mask=0;mask<(1<<n1);mask++){
+            int c=0;
+            int sum=0;
+            for(int i=0;i<n1;i++){
+                if((mask & (1<<i))){
+                    sum+=arr[i];
+                    c++;
+                }
+            }
+            mp1[c].push_back(sum);
         }
-        else
-            return mp[key] = helper(nums, i + 1, n, sum, n1);
-    }
-    
-    bool splitArraySameAverage(vector<int>& nums) {
-        
-        int n = nums.size();
-        
-        // find the total sum
-        
-        int sum = 0;
-        
-        for(int i = 0; i < n; i++)
-        {
-            sum += nums[i];
+        for(int mask=0;mask<(1<<n2);mask++){
+            int c=0;
+            int sum=0;
+            for(int i=0;i<n2;i++){
+                if((mask & (1<<i))){
+                    sum+=arr[n1+i];
+                    c++;
+                }
+            }
+            mp2[c].push_back(sum);
         }
         
-        // check for every possible size of subset from 1 to n - 1
-        
-        for(int n1 = 1; n1 < n; n1++)
-        {
-            if((sum * n1) % n == 0)
-            {
-                int req_sum = (sum * n1) / n;
-                
-                // check if there is any subset of n1 that has sum of req_sum
-            
-                if(helper(nums, 0, n, req_sum, n1))
-                    return true;
+        int s=accumulate(arr.begin(),arr.end(),0);
+        for(int i=0;i<=n2;i++){
+            sort(mp2[i].begin(),mp2[i].end());
+        }
+        for(int i=0;i<=n1;i++){
+            for(int left_s:mp1[i]){
+                for(int j=0;j<=n2;j++){
+                    int size=i+j;
+                    if(size==0 || size==n) continue;
+                    if(size*s % n != 0) continue;
+                    int right_s=(size*s/n)-left_s;
+                    if(binary_search(mp2[j].begin(),mp2[j].end(),right_s)) return true;
+                }
             }
         }
-        
         return false;
     }
 };

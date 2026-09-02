@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0873-length-of-longest-fibonacci-subsequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |

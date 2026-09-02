@@ -17,8 +17,10 @@ public:
         vector<TreeNode*>ans;
         if(n==1){
             ans.push_back(new TreeNode(0));
+            mp[1]=ans;
             return ans;
         }
+        if(mp.count(n)) return mp[n];
         for(int i=1;i<n;i+=2){
             vector<TreeNode*>left=solve(i);
             vector<TreeNode*>right=solve(n-i-1);
@@ -31,6 +33,7 @@ public:
                 }
             }
         }
+        mp[n]=ans;
         return ans;
     }
     vector<TreeNode*> allPossibleFBT(int n) {

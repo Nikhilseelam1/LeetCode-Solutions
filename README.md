@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0899-orderly-queue](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0899-orderly-queue) |
+| [0940-distinct-subsequences-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1328-break-a-palindrome](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1328-break-a-palindrome) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |

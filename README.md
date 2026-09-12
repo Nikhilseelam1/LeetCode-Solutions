@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0514-freedom-trail](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

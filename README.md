@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0873-length-of-longest-fibonacci-subsequence/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0514-freedom-trail](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0924-minimize-malware-spread](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0924-minimize-malware-spread) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0899-orderly-queue) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1029-two-city-scheduling](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1029-two-city-scheduling) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0899-orderly-queue](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1328-break-a-palindrome](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1392-longest-happy-prefix) |
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0306-additive-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0306-additive-number) |
 | [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
+| [1096-brace-expansion-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Graph Theory
 | Problem Name | Difficulty |

@@ -9,17 +9,17 @@ public:
             string value=k[i][1];
             mp[key]=value;
         }
-        string ans="";
+        string ans;
+        ans.reserve(n);
         int i=0;
         while(i<n)
         {
             if(s[i]=='('){
                 int j=i+1;
-                string x;
                 while(s[j]!=')'){
-                    x+=s[j];
                     j++;
                 }
+                string x = s.substr(i + 1, j - i - 1);
                 if(mp.find(x)!=mp.end()){
                     ans+=mp[x];
                 }else{

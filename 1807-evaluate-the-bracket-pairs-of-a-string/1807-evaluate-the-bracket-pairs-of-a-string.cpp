@@ -9,9 +9,6 @@ public:
             string value=k[i][1];
             mp[key]=value;
         }
-        // for(auto it:mp){
-        //     cout<<it.first<<" "<<it.second<<endl;
-        // }
         string ans="";
         int i=0;
         while(i<n)
@@ -24,8 +21,6 @@ public:
                     j++;
                 }
                 if(mp.find(x)!=mp.end()){
-                    cout<<"nikh"<<" ";
-                    cout<<mp[x];
                     ans+=mp[x];
                 }else{
                     ans+="?";

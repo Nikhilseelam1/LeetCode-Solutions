@@ -1,28 +1,35 @@
 class Solution {
 public:
-    static constexpr int LIM = 1 << 10;
-    int minCost(auto& A) {
-        int m = A.size(), n = A[0].size();
-        bitset<LIM> dp[n];
-        
-        dp[0].set(A[0][0]);
-
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (!i && !j) continue;
-
-                bitset<LIM> prev;
-                if (i > 0) prev |= dp[j];
-                if (j > 0) prev |= dp[j - 1];
-                
-                bitset<LIM> curr;
-                for (int k = prev._Find_first(); k < LIM; k = prev._Find_next(k))
-                    curr.set(k ^ A[i][j]);
-
-                dp[j] = curr;
+    int minCost(vector<vector<int>>& grid) {
+        int m=grid.size();
+        int n=grid[0].size();
+        vector<vector<bitset<1024>>>dp(m,vector<bitset<1024>>(n));
+        dp[0][0][grid[0][0]]=1;
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(i==0 && j==0) continue;
+                bitset<1024>up;
+                bitset<1024>left;
+                if(i>0){
+                    up=dp[i-1][j];
+                }
+                if(j>0) left=dp[i][j-1];
+                bitset<1024>res=up | left;
+                for(int x=0;x<1024;x++)
+                {
+                    if(res[x])
+                    {
+                        int x1= x ^ grid[i][j];
+                        dp[i][j][x1]=1;
+                    }
+                }
             }
         }
-
-        return dp[n - 1]._Find_first();
+        for(int x=0;x<1024;x++){
+            if(dp[m-1][n-1][x]) return x;
+        }
+        return -1;
     }
 };

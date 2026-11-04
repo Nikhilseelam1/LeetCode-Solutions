@@ -1,49 +1,37 @@
 class Solution {
 public:
     int shortestPath(int n, vector<vector<int>>& edges, string labels, int k) {
-        unordered_map<int,vector<pair<int,int>>> m;
-
-        for(auto x:edges){
-            m[x[0]].push_back({x[1],x[2]});
-        }
-
-        priority_queue<
-            tuple<int,int,int>,
-            vector<tuple<int,int,int>>,
-            greater<tuple<int,int,int>>
-        > q;
-
-        vector<vector<int>> dp(n,vector<int>(k+1,INT_MAX));
-
-        dp[0][1]=0;
-        q.push({0,0,1});
-
-        while(!q.empty()){
-            auto [cost,node,c]=q.top();
-            q.pop();
-
-            if(cost!=dp[node][c]) continue;
-
-            if(node==n-1) return cost;
-
-            for(auto x:m[node]){
-                int v=x.first;
-                int wt=x.second;
-                int cnt=1;
-
-                if(labels[v]==labels[node]){
-                    cnt=c+1;
-                }
-
-                if(cnt>k) continue;
-
-                if(cost+wt<dp[v][cnt]){
-                    dp[v][cnt]=cost+wt;
-                    q.push({cost+wt,v,cnt});
+       vector<vector<pair<int,int>>>adj(n+1);
+       for(auto it:edges){
+            adj[it[0]].push_back({it[1],it[2]});
+       }
+       priority_queue<pair<int,pair<int,int>>,
+       vector<pair<int,pair<int,int>>>,
+       greater<pair<int,pair<int,int>>>>pq;
+       pq.push({0,{0,1}});
+       vector<vector<int>>dist(n+1,vector<int>(k+1,1e9));
+       dist[0][1]=0;
+       while(!pq.empty())
+       {
+            auto it=pq.top();
+            pq.pop();
+            int node=it.second.first;
+            int k1=it.second.second;
+            int w=it.first;
+            if(node==n-1) return w;
+            for(auto edge:adj[node])
+            {
+                int node1=edge.first;
+                int w1=edge.second;
+                int newcount;
+                if(labels[node]==labels[node1]) newcount=k1+1;
+                else newcount=1;
+                if(newcount<=k && w1+w<dist[node1][newcount]){
+                    dist[node1][newcount]=w1+w;
+                    pq.push({w+w1,{node1,newcount}});
                 }
             }
-        }
-
-        return -1;
+       }
+       return -1;
     }
 };

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0986-interval-list-intersections](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0275-h-index-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |

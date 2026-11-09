@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1696-jump-game-vi) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1845-seat-reservation-manager](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
+| [1882-process-tasks-using-servers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |

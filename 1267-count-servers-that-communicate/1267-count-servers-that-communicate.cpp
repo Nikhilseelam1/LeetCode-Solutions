@@ -4,48 +4,23 @@ public:
         int n=grid.size();
         int m=grid[0].size();
         int ans=0;
+        vector<int>rows(n,0),cols(m,0);
         for(int i=0;i<n;i++)
         {
-            bool f=false;
             for(int j=0;j<m;j++){
                 if(grid[i][j]==0) continue;
-                bool c=false;
-                if(f)
-                {
-                    ans++;
-                    continue;
-                }
-                f=true;
-                for(int x=j+1;x<m;x++){
-                    if(grid[i][x])
-                    {
-                        ans++;
-                        f=true;
-                        c=true;
-                        break;
-                    }
-                }
-                if(c){
-                    continue;
-                }
-                for(int x=i-1;x>=0;x--){
-                    if(grid[x][j]){
-                        ans++;
-                        c=true;
-                        break;
-                    }
-                }
-                if(c) continue;
-                for(int x=i+1;x<n;x++){
-                    if(grid[x][j])
-                    {
-                        ans++;
-                        break;
-                    }
-                }
+                rows[i]++;
+                cols[j]++;
             }
-            cout<<ans<<" ";
+        }
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++){
+                if(grid[i][j]==0) continue;
+                if(rows[i]>1 || cols[j]>1) ans++;
+            }
         }
         return ans;
+        
     }
 };

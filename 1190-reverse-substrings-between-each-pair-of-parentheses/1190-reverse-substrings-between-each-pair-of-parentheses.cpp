@@ -1,30 +1,47 @@
 class Solution {
 public:
+    bool check(char ch){
+        return ch >= 'a' && ch <= 'z';
+    }
     string reverseParentheses(string s) {
-        stack<string> st;
-        string ans = "";
-        int n = s.size();
-        for (int i = 0; i < n; i++) {
-            string s1 = "";
-            if (s[i] == ')') {
-                while (!st.empty() && st.top() != "(") {
-                    s1 += st.top();
-                    st.pop();
+        stack<string>st;
+        int n=s.size();
+        for(int i=0;i<n;){
+            if(s[i]=='('){
+                st.push("(");
+                i++;
+            }else{
+                string x="";
+                if(check(s[i])){
+                    while(i<n && check(s[i]))
+                    {
+                        x+=s[i];
+                        i++;
+                    }
+                    st.push(x);
+                }else{
+                    if(!st.empty())
+                    {
+                        string x1="";
+                        while(!st.empty() && st.top()!="("){
+                            x1=st.top() + x1;
+                            st.pop();
+                        }
+                        reverse(x1.begin(),x1.end());
+                        if(!st.empty()) st.pop();
+                        st.push(x1);
+                    }
+                    i++;
                 }
-                if (!st.empty())
-                    st.pop();
-                reverse(s1.begin(),s1.end());
-                st.push(s1);
-            }
-            else {
-                st.push(string(1, s[i]));
             }
         }
+        if(!st.empty() && st.top()=="(") st.pop();
+        string ans = "";
+
         while (!st.empty()) {
-            ans += st.top();
+            ans = st.top() + ans;
             st.pop();
         }
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };

@@ -28,7 +28,7 @@ class Solution {
             if(start==n) return 0;
             else return Integer.MAX_VALUE;
         }
-        if (n - start < k) return Integer.MAX_VALUE;
+        // if (n - start < k) return Integer.MAX_VALUE;
         if(dp[start][k]!=-1) return dp[start][k];
         int mini=Integer.MAX_VALUE;
         for(int e=start+1;e<n;e++)

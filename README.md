@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

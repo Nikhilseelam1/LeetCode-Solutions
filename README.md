@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0306-additive-number](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0514-freedom-trail](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0556-next-greater-element-iii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0763-partition-labels](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0763-partition-labels) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0526-beautiful-arrangement](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0526-beautiful-arrangement) |
 | [0805-split-array-with-same-average](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0805-split-array-with-same-average) |
 | [1755-closest-subsequence-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |

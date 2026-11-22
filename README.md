@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |

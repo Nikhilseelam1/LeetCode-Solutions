@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0372-super-pow) |
+| [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Stack
 |  |
@@ -1016,4 +1018,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0372-super-pow) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->

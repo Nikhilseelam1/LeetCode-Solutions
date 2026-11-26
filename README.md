@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0372-super-pow](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Quickselect
 |  |
@@ -1006,4 +1008,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->

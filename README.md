@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0299-bulls-and-cows](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0398-random-pick-index](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -1025,9 +1027,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 ## Randomized
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->

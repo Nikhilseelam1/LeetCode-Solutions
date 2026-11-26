@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0384-shuffle-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0553-optimal-division) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0384-shuffle-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1845-seat-reservation-manager](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/1845-seat-reservation-manager) |
@@ -1026,4 +1029,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+| [0384-shuffle-an-array](https://github.com/Nikhilseelam1/LeetCode-Solutions/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
